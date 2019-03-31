@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "192320174021",
+    "firebase_url": "https://ead-restaurant-1c839.firebaseio.com",
+    "project_id": "ead-restaurant-1c839",
+    "storage_bucket": "ead-restaurant-1c839.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:192320174021:android:a0ed3797af06ed96",
+        "android_client_info": {
+          "package_name": "com.example.aprilia.apriliaariwidyastuti_1202160098_si4002_pab_modul4"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "192320174021-0pmift046jimi36fmjq06tv7cq1icqa1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.aprilia.apriliaariwidyastuti_1202160098_si4002_pab_modul4",
+            "certificate_hash": "24de3aa36d3a3c53d7e784932f6ea9b0bda1b041"
+          }
+        },
+        {
+          "client_id": "192320174021-qdt7llj189lbo809j6hnqc98a3qqgm0q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDPxj73cnKrwt8iMhxb7IcjfkbPNmrd-3M"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "192320174021-qdt7llj189lbo809j6hnqc98a3qqgm0q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
